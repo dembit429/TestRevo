@@ -4,7 +4,6 @@
 #include <chrono>
 #include <gtest/gtest.h>
 using namespace std;
-
 void printArray(int* array, int length)
 {
     for (int index = 0; index < length; index++) {
